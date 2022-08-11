@@ -24,11 +24,11 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         width: '90%',
-        borderWidth: 1,
         borderRadius: 16,
         marginTop: 12,
         height: 55,
         left: 24,
+        backgroundColor: '#FFF'
     },
     input: {
         width: '90%',

@@ -7,8 +7,8 @@ export default function UserProfile() {
 
 const styles = StyleSheet.create({
     image: {
-        width: 48,
-        height: 48,
+        width: 60,
+        height: 60,
         left: 24,
         top: 74,
     },
