@@ -1,4 +1,4 @@
-import { StyleSheet, Image, View, ImageBackground } from 'react-native';
+import { StyleSheet, View, ImageBackground } from 'react-native';
 import { useRoute } from '@react-navigation/native'
 import CancelIcon from '../components/CancelIcon'
 import LocalizationIcon from '../components/LocalizationIcon'
